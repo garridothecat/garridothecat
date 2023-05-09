@@ -50,5 +50,3 @@
 	/></a>
 </p>
 
-###
-https://wakatime.com/badge/github/wakatime/vscode-wakatime
