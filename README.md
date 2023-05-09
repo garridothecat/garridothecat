@@ -4,11 +4,11 @@
 
 ###
 
-<a href="https://wakatime.com/@c6d698f9-2e6e-48aa-ab6d-c076a25f2458"><img src="https://wakatime.com/badge/user/c6d698f9-2e6e-48aa-ab6d-c076a25f2458.svg" alt="Total time coded since Mar 21 2022" /></a>
+
 
 ###
 
-<h2>Hello World!</h2>
+<h2>Hello World!</h2><a href="https://wakatime.com/@c6d698f9-2e6e-48aa-ab6d-c076a25f2458"><img src="https://wakatime.com/badge/user/c6d698f9-2e6e-48aa-ab6d-c076a25f2458.svg" alt="Total time coded since Mar 21 2022" /></a>
 <p>
 	As a student at flag.com, I am currently enrolled in a Fullstack Webdevolpment Course where I am honing my skills in the latest web development technologies. My passion for coding and creating
 	innovative web solutions has led me to pursue this program, where I am gaining hands-on experience in front-end and back-end development, as well as server-side scripting and database management.
