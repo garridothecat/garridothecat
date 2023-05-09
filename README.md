@@ -9,3 +9,4 @@ At the moment i have accquired the following certificates:
 
 
 <h2>Connect with me:</h2>
+https://www.linkedin.com/in/jo%C3%A3o-garrido-878455155/
