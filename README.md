@@ -10,10 +10,7 @@ At the moment i have accquired the following certificates:
 
 
 <h2>Connect with me:</h2>
-
-<a href="https://www.linkedin.com/in/jo%C3%A3o-garrido-878455155/" target="_blank" >
-  
+<a href="https://www.linkedin.com/in/jo%C3%A3o-garrido-878455155/">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-nurcholis-112b73162" style="max-width: 100%;" width="40" height="30" align="middle">
-  
 </a>
 
