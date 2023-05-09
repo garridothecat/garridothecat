@@ -1,5 +1,5 @@
 ### I´m João Garrido 👋
-
+<hr>
 Hello World!
 
 As a student at flag.com, I am currently enrolled in a Fullstack Webdevolpment Course where I am honing my skills in the latest web development technologies. My passion for coding and creating innovative web solutions has led me to pursue this program, where I am gaining hands-on experience in front-end and back-end development, as well as server-side scripting and database management. Through this course, I am constantly expanding my knowledge and refining my abilities in web development, and I am eager to contribute my skills to exciting new projects in the industry.
