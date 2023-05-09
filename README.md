@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Hello World!</p>
+<h2>Hello World!</h2>
 <p>
 	As a student at flag.com, I am currently enrolled in a Fullstack Webdevolpment Course where I am honing my skills in the latest web development technologies. My passion for coding and creating
 	innovative web solutions has led me to pursue this program, where I am gaining hands-on experience in front-end and back-end development, as well as server-side scripting and database management.
