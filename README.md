@@ -4,8 +4,6 @@
 
 ###
 
-<a href="https://wakatime.com/@c6d698f9-2e6e-48aa-ab6d-c076a25f2458"><img src="https://wakatime.com/badge/user/c6d698f9-2e6e-48aa-ab6d-c076a25f2458.svg" alt="Total time coded since Mar 21 2022" /></a>
-
 ###
 
 <h2>I'm João Garrido 😊</h2>
