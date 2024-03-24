@@ -1,6 +1,8 @@
 <h1 align="center">Hello World! Jo~ao Garrido</h1>
 <h3 align="center">Full stack Web Developer from Portugal</h3>
 
+<h4>I'm João Garrido, a passionate full-stack web developer based in Portugal. With a strong foundation in web development, I constantly strive to enhance my skills and stay updated with the latest technologies.</h4>
+
 - 🌱 I’m currently learning **Javascript, React and Typescript**
 
 - 📫 How to reach me **https://www.linkedin.com/in/jo%C3%A3o-garrido-878455155/**
