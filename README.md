@@ -42,4 +42,5 @@
 ![php-frameworks-laravel](https://github.com/garridothecat/garridothecat/assets/107148935/0eaa1326-c698-4172-bf8f-a54eed9f574d)
 ![creating-rest-api-s](https://github.com/garridothecat/garridothecat/assets/107148935/faf6278b-8012-4a85-a49c-7c6780fa8f27)
 ![workshop-mongodb-nodejs-expressjs](https://github.com/garridothecat/garridothecat/assets/107148935/355c72af-53db-4fc5-ad2c-ade47b4ef5ff)
-![flagprofessional-full-stack-web-development-academy](https://github.com/garridothecat/garridothecat/assets/107148935/4f2bcf53-425a-45c0-a4bd-3abd93f6f821)
+![flagprofessional-full-stack-web-development-academy](https://github.com/garridothecat/garridothecat/assets/107148935/14516f8a-121d-44cd-a5fc-c3d43ffd8c9a)
+
