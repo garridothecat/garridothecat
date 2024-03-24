@@ -22,4 +22,3 @@
 </div>
 
 <h3 align="left">Badges Earned:</h3>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="eacabe6e-0b3e-41d0-9903-cb1bc8d4fc28" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
