@@ -3,6 +3,8 @@
 
 <h4>I'm João Garrido, a passionate full-stack web developer based in Portugal. With a strong foundation in web development, I constantly strive to enhance my skills and stay updated with the latest technologies.Recently, i have finished school and am looking for work.</h4>
 
+<h3 align="left">Badges Earned:</h3>
+
 ![agile-methodologies-for-project-management](https://github.com/garridothecat/garridothecat/assets/107148935/829445b6-789c-4086-a688-96f9854fa23f)
 ![workshop-scrum](https://github.com/garridothecat/garridothecat/assets/107148935/db8bea6e-16b0-4d29-80ab-6ffccdb210c4)
 ![html5](https://github.com/garridothecat/garridothecat/assets/107148935/b306b06a-48cc-434a-9cdf-a4c8b25d1730)
@@ -38,7 +40,6 @@
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6a65d7d9-d798-49ac-a932-9976da3034a1" data-share-badge-host="https://www.credly.com"></div>
 </div>
 
-<h3 align="left">Badges Earned:</h3>
 
 
 - 🌱 I’m currently learning **Javascript, React and Typescript**
