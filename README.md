@@ -23,4 +23,3 @@
 
 <h3 align="left">Badges Earned:</h3>
 
-![agile-methodologies-for-project-management](https://github.com/garridothecat/garridothecat/assets/107148935/fd86be68-c091-4b30-b130-8cd3a1b23079)
