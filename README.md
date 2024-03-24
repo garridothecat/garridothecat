@@ -21,4 +21,7 @@
   <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6a65d7d9-d798-49ac-a932-9976da3034a1" data-share-badge-host="https://www.credly.com"></div>
 </div>
 
-<h3 align="left">Badges Earned</h3>
+<h3 align="left">Badges Earned:</h3>
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6a65d7d9-d798-49ac-a932-9976da3034a1" data-share-badge-host="https://www.credly.com"></div>
+<script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
