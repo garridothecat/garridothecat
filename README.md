@@ -23,3 +23,23 @@
 
 <h3 align="left">Badges Earned:</h3>
 
+
+![agile-methodologies-for-project-management](https://github.com/garridothecat/garridothecat/assets/107148935/829445b6-789c-4086-a688-96f9854fa23f)
+![workshop-scrum](https://github.com/garridothecat/garridothecat/assets/107148935/db8bea6e-16b0-4d29-80ab-6ffccdb210c4)
+![html5](https://github.com/garridothecat/garridothecat/assets/107148935/b306b06a-48cc-434a-9cdf-a4c8b25d1730)
+![css3](https://github.com/garridothecat/garridothecat/assets/107148935/e9b254f0-2ea1-44a0-ba55-b532d0270732)
+![workshop-sass](https://github.com/garridothecat/garridothecat/assets/107148935/3eb51384-c293-484e-9c22-59e74a82dac4)
+![basics-of-programming-with-javascript](https://github.com/garridothecat/garridothecat/assets/107148935/08d83c95-1cec-430c-98ef-3c701a02f9c4)
+![javascript](https://github.com/garridothecat/garridothecat/assets/107148935/a57acb69-d455-4e38-8aa1-379257a8ad85)
+![javascript(1)](https://github.com/garridothecat/garridothecat/assets/107148935/30b6a264-e1c8-401b-97b3-254a2cccd310)
+![introduction-to-programming](https://github.com/garridothecat/garridothecat/assets/107148935/def2366e-0fef-413d-b7a8-277d6c7c6a38)
+![agile-methodologies-for-project-management-scrum](https://github.com/garridothecat/garridothecat/assets/107148935/b972a7b5-1b21-40d4-9b8a-548706a36cbf)
+![agile-methodologies-for-project-management-scrum(1)](https://github.com/garridothecat/garridothecat/assets/107148935/ec9b2a1e-5c7c-45b8-84cc-df8045d6917b)
+![frontend-frameworks-react 1](https://github.com/garridothecat/garridothecat/assets/107148935/2cf29682-9f3e-4978-9a09-d5d6fdd14313)
+![introduction-to-data-structuring](https://github.com/garridothecat/garridothecat/assets/107148935/22cab0be-836a-4d88-b2a3-3770dbc39649)
+![database-mysql](https://github.com/garridothecat/garridothecat/assets/107148935/f0192548-3766-40a7-8a85-76d8396bb3ba)
+![php](https://github.com/garridothecat/garridothecat/assets/107148935/f27f22f3-dde8-403c-b94b-a48f69fe2cb0)
+![php-frameworks-laravel](https://github.com/garridothecat/garridothecat/assets/107148935/0eaa1326-c698-4172-bf8f-a54eed9f574d)
+![creating-rest-api-s](https://github.com/garridothecat/garridothecat/assets/107148935/faf6278b-8012-4a85-a49c-7c6780fa8f27)
+![workshop-mongodb-nodejs-expressjs](https://github.com/garridothecat/garridothecat/assets/107148935/355c72af-53db-4fc5-ad2c-ade47b4ef5ff)
+![flagprofessional-full-stack-web-development-academy](https://github.com/garridothecat/garridothecat/assets/107148935/4f2bcf53-425a-45c0-a4bd-3abd93f6f821)
